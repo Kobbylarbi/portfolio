@@ -138,6 +138,15 @@ body {
     gap: 20px;
 }
 
+.social-links a{
+    transition: all 0.3s ease;
+}
+
+.social-links a:hover{
+transition: all 0.3s ease;
+transform: translateY(-2px);
+}
+
 .image-holder {
     display: flex;
     justify-content: center;
